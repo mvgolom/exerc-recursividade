@@ -1,7 +1,7 @@
 # Exercícios resolvidos usando recursividade
 
 ## Para uma melhor visualização dos exercicios usando a ferramenta [Python Tutor](http://pythontutor.com)
->Fibonacci - [https://goo.gl/fnSqrP](https://goo.gl/fnSqrP)
+>Fibonacci - [https://goo.gl/D9cxfE](https://goo.gl/D9cxfE)
 >
 >Fatorial - [https://goo.gl/fnSqrP](https://goo.gl/fnSqrP)
 >
